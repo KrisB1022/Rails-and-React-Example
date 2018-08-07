@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sitter1:
+  name: Daenerys Targaryen
+  image: mother_of_dragons.jpg
+  phone_number: 1234567890
+  email: motherOfDragons@dragonCo.org
+  ratings_total: 4
+  stays: 3
+  ratings_score: 2.5
+  sitter_score: 1.44
+
+sitter2:
+  name: Arya Stark
+  image: faceless.jpg
+  phone_number: 1234567890
+  email: dragonlovesarya@dragonCo.org
+  ratings_total: 4
+  stays: 3
+  ratings_score: 5
+  sitter_score: 1.44
+
+sitter3:
+  name: Jon Snow
+  image: kingofthenorth.png
+  phone_number: 1234567890
+  email: kingofthenorth@thewall.org
+  ratings_total: 4
+  stays: 3
+  ratings_score: 5
+  sitter_score: 1

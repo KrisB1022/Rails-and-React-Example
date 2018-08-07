@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+dog1:
+  name: Sandor (The Hound)
+  owner: owner1
+
+dog2:
+  name: Tyrion
+  owner: owner1
+
+dog3:
+  name: Cersei
+  owner: owner1
+
+dog4:
+  name: Gregor
+  owner: owner1

@@ -1,0 +1,12 @@
+.sitter {
+    padding: 6px;
+    margin-bottom: 15px;
+}
+
+.sitterHeadshot {
+    height: 190px;
+    width: 165px;
+    background-size: cover;
+    background-position: center;
+    margin-right: 12px;
+}
